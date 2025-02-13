@@ -1,0 +1,23 @@
+{
+	"node": "n8n-nodes-base.Mapbox",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"name": "Mapbox",
+	"description": "Creates static map images using Mapbox",
+	"icon": "mapbox.svg",
+	"categories": [
+		"Map", "Navigation", "Geocoding", "Utility"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.mapbox.com/api/accounts/tokens/"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.mapbox.com/api/maps/static-images"
+			}
+		]
+	}
+}
