@@ -22,15 +22,11 @@ Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes
 
 This node provides the following operations:
 
-- Forward Geocoding 
-	Forward geocoding converts location text into geographic coordinates, turning 2 Lincoln Memorial Circle SW into -77.050,38.889
+- Forward Geocoding - converts location text into geographic coordinates, turning 2 Lincoln Memorial Circle SW into -77.050,38.889
 
-- Reverse Geocoding
-	Reverse geocoding converts geographic coordinates into location text, turning -77.050,38.889 into 2 Lincoln Memorial Circle SW
+- Reverse Geocoding - converts geographic coordinates into location text, turning -77.050,38.889 into 2 Lincoln Memorial Circle SW
 
-- Static Map Generation
-	Static map generation creates a static map image from a location and a set of overlays. 
-	Read more about the Mapbox Static Images API [here](https://docs.mapbox.com/api/maps/static-images).
+- Static Map Generation - creates a static map image from a location and a set of overlays. Read more about the Mapbox Static Images API [here](https://docs.mapbox.com/api/maps/static-images).
 
 ## Credentials
 
